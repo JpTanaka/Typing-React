@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typing-react/static/css/main.6148bb1c.css",
+    "main.js": "/typing-react/static/js/main.05b65d75.js",
+    "static/js/787.a240ec69.chunk.js": "/typing-react/static/js/787.a240ec69.chunk.js",
+    "index.html": "/typing-react/index.html",
+    "main.6148bb1c.css.map": "/typing-react/static/css/main.6148bb1c.css.map",
+    "main.05b65d75.js.map": "/typing-react/static/js/main.05b65d75.js.map",
+    "787.a240ec69.chunk.js.map": "/typing-react/static/js/787.a240ec69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6148bb1c.css",
+    "static/js/main.05b65d75.js"
+  ]
+}
